@@ -5,3 +5,5 @@ This scrapper allows you to scrape paper from Acm and google scholar and provide
 3.	Choose ACM or Google Scholar
 4.	Enter search queries
 5.  Click "Scrape"
+
+![Alt Text](demo.png)
